@@ -1,0 +1,24 @@
+Crete react project with nextjs and tailwind, recoil need to know--i used yarn
+
+
+yarn create next-app -e tailwindcss "project-name" --refer to Next.js on Tailwindcss website
+yarn run dev --start the project
+
+yarn add faker --fake data
+
+yarn add @heroicons/react
+yarn add @tailwindcss/forms
+
+yarn add -D tailwind-scrollbar
+
+yarn add next-auth@beta --refer next-auth web
+
+yarn add firebase
+configure i used this time google authentication
+
+yarn add recoil
+yarn add @headlessui/react for ui modal
+
+
+
+
